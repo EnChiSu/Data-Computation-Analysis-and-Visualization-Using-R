@@ -1,5 +1,5 @@
 par(mfrow=c(3,2))
-#¥¿½Tª©
+#æ­£ç¢ºç‰ˆ
 fx <- function(x){
   return((2/pi)^0.5*exp(-(x^2)/2))
 }
@@ -33,7 +33,7 @@ hist(k,breaks=seq(-5,5,by=1),freq=F,ylim=c(0,1),main="Standard Normal Distributi
 lines(x,dnorm(x),col="red")
 hist(k,breaks=seq(-5,5,by=0.5),freq=F,ylim=c(0,1),main="Standard Normal Distribution\n Bin width=0.5")
 lines(x,dnorm(x),col="red")
-hist(k,breaks="FD",freq=F,ylim=c(0,1),main="Standard Normal Distribution\n Bin width=h=2¡ÑIQR¡Ñn^(-1/3)=0.12")  #FD=(quantile(k,0.75)-quantil(k,0.25))*10000^(-1/3)*2
+hist(k,breaks="FD",freq=F,ylim=c(0,1),main="Standard Normal Distribution\n Bin width=h=2Â¡Ã‘IQRÂ¡Ã‘n^(-1/3)=0.12")  #FD=(quantile(k,0.75)-quantil(k,0.25))*10000^(-1/3)*2
 lines(x,dnorm(x),col="red")
 hist(k,breaks=seq(-5,5,by=0.01),freq=F,ylim=c(0,1),main="Standard Normal Distribution\n Bin width=0.01")
 lines(x,dnorm(x),col="red")
@@ -43,7 +43,7 @@ hist(k,breaks=seq(-5,5,by=0.0001),freq=F,ylim=c(0,1),main="Standard Normal Distr
 lines(x,dnorm(x),col="red")
 ap_rate= count/n
 
-#Beta n=mª©¥»
+#Beta n=mç‰ˆæœ¬
 set.seed(10)
 n <- 10000
 g <- rep(0,n)
@@ -69,7 +69,7 @@ ap_rate= count/n
 
 
 
-#¿ù»~ª©
+#éŒ¯èª¤ç‰ˆ
 acceptance <- function(fx){
   while(TRUE){
     x <- rexp(1)
@@ -97,6 +97,6 @@ for(i in 1:n){
 }
 
 z=seq(-5,5,by=0.001)
-hist(g,breaks=seq(-5,5,by=1),freq=F,ylim=c(0,1),main="¿ù»~ª©")
+hist(g,breaks=seq(-5,5,by=1),freq=F,ylim=c(0,1),main="Â¿Ã¹Â»~ÂªÂ©")
 lines(z,dnorm(z),col="yellow")
 lines(z,(2/pi)^0.5*exp(-z^2/2),col="red")
