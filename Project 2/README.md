@@ -5,4 +5,6 @@ Our final goal is to generate simulation and figures as below: <br/>
 (If you can't see the figure, pleas refresh again or right click the image and choose "reload")<br/>
 
 <br/>
-<img src="https://drive.google.com/uc?export=view&id=1qbVL2Eudu9GxuGCj2uzyKK2Qdre-ktMZ"  width="600" height="450">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1qbVL2Eudu9GxuGCj2uzyKK2Qdre-ktMZ"  width="600" height="450">
+</p>
