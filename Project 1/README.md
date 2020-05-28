@@ -1,2 +1,14 @@
 ## Description
-In the project, I use the rejection method to generate random numbers using truncated normal as envelope, which is more efficient than using uniform distribution as envelope. You can find the R code and step by step explanation in the files above.
+In the project, I use the rejection method to generate random numbers using truncated normal as envelope, which is more efficient than using uniform distribution as envelope. You can find the R code and step by step explanation in the files above.<br/>
+
+## Concept of Rejection method using truncated normal as envelope
+<br/>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1pGWA_aawVH4i5SdAAOmDconESHWa85PH"  width="600" height="450">
+</p>
+
+## Result
+<br/>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1g7mJs30PAhz7sYG_lRido8d8N7C_ol3l"  width="600" height="450">
+</p>
