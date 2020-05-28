@@ -11,7 +11,7 @@ In the project, I use the rejection method to generate random numbers using trun
 <br/>
 
 ## Result
-(If you can't see the figure, please refresh again or right click the image and choose "reload")<br/>
+(If you can't see the figure, please refresh again or right click the image and choose "reload the image")<br/>
 
 <br/>
 <p align="center">
