@@ -2,7 +2,7 @@
 In the project, I use the rejection method to generate random numbers using truncated normal as envelope, which is more efficient than using uniform distribution as envelope. You can find the R code and step by step explanation in the files above.<br/>
 <br/>
 
-## Concept of Rejection method using truncated normal as envelope
+## Concept of rejection method using truncated normal as envelope
 <br/>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1pGWA_aawVH4i5SdAAOmDconESHWa85PH"  width="600" height="450">
