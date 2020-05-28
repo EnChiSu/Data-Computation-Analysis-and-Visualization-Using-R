@@ -1,5 +1,5 @@
 ## General Description
-These are projects I've done in the "Data Computation, Analysis and Visualization Using R" in the first semester of 2019 at the National Taiwan University. <br/>
+These are projects I've done during "Data Computation, Analysis and Visualization Using R" course in the first semester of 2019 at the National Taiwan University. <br/>
  <br/>
 In the class, we focus heavily on the visualization of data simulation and computation. The visualization results help us understand several statistics theories, computation methods and visulization tools in R. For more our class materials and projects, you can find it [here](http://www.rslabntu.net/courses/data_computation_analysis_and_visualization_using_r).<br/>
 <br/>
