@@ -3,4 +3,4 @@ In this project, I generate random numbers from multivariate normal in 80x80 gri
  <br/>
 Our final goal is to generate simulation and figures as below: <br/>
 (If you can't see the figure, pleas refresh again or right click the image and choose "reload")<br/>
-<img src="https://drive.google.com/uc?export=view&id=1qbVL2Eudu9GxuGCj2uzyKK2Qdre-ktMZ"  width="600" height="600">
+<img src="https://drive.google.com/uc?export=view&id=1qbVL2Eudu9GxuGCj2uzyKK2Qdre-ktMZ"  width="800" height="600">
