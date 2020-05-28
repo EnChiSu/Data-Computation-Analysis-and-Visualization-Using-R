@@ -3,7 +3,7 @@ In the project, I use the rejection method to generate random numbers using trun
 <br/>
 
 ## Concept of rejection method using truncated normal as envelope
-(If you can't see the figure, please refresh again or right click the image and choose "reload")<br/>
+(If you can't see the figure, please refresh again or right click the image and choose "reload the image")<br/>
 <br/>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1pGWA_aawVH4i5SdAAOmDconESHWa85PH"  width="600" height="450">
