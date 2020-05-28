@@ -1,2 +1,2 @@
 ## Description
-In the project, we use truncated normal to generate random numbers, which is more efficient than the traditional one. You can find the R code and step by step explanation in the files above.
+In the project, I use the rejection method to generate random numbers using truncated normal as envelope, which is more efficient than using uniform distribution as envelope. You can find the R code and step by step explanation in the files above.
